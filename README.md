@@ -80,7 +80,6 @@ Functions used: VLOOKUP, INDEX MATCH, SUM, COUNTA, Pivot Tables, Advanced Filter
 
 ## 👩‍💻 Author
 
-**Nishtha Pande**  
-B.Tech Mechanical Engineering, NSUT Delhi (2024–2028)  
-📧 nishtha17.04.06@gmail.com  
-🔗 [GitHub](https://github.com/nishthapande)
+**Kunsh Bhatia**  
+B.Tech Electronics and Communication Engineering, NSUT Delhi (2024–2028)  
+📧 bhatiakunsh03@gmail.com
